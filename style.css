@@ -1,0 +1,17 @@
+/* style.css */
+
+body {
+  background-color: #5b7c99;
+  font-family: 'Courier New';
+  text-align: center;
+}
+
+.h1 {
+  background-color: #003366;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+li {
+  text-align: left;
+}
